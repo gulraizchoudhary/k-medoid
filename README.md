@@ -37,4 +37,4 @@ Jaccard distance score (1-jaccard similarity)
 ```
 
 ## Example: Histograms of most frequent diseases in a cluster
-!["Cluster 0"](https://github.com/gulraizchoudhary/k-medoid/blob/main/k-medoids/visuals/data_1200_800_16_5_1_jdr_in_cluster_0_histogram.png)
+!["Cluster 0"](https://github.com/gulraizchoudhary/k-medoid/blob/main/k-medoids/visuals/toydata_mlcss_0_histogram.png)
