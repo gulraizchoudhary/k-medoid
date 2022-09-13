@@ -38,3 +38,12 @@ Jaccard distance score (1-jaccard similarity)
 
 ## Example: Histograms of most frequent diseases in a cluster
 !["Cluster 0"](https://github.com/gulraizchoudhary/k-medoid/blob/main/k-medoids/visuals/toydata_mlcss_0_histogram.png)
+!["Cluster 0"](https://github.com/gulraizchoudhary/k-medoid/blob/main/k-medoids/visuals/toydata_mlcss_1_histogram.png)
+!["Cluster 0"](https://github.com/gulraizchoudhary/k-medoid/blob/main/k-medoids/visuals/toydata_mlcss_2_histogram.png)
+!["Cluster 0"](https://github.com/gulraizchoudhary/k-medoid/blob/main/k-medoids/visuals/toydata_mlcss_3_histogram.png)
+!["Cluster 0"](https://github.com/gulraizchoudhary/k-medoid/blob/main/k-medoids/visuals/toydata_mlcss_4_histogram.png)
+!["Cluster 0"](https://github.com/gulraizchoudhary/k-medoid/blob/main/k-medoids/visuals/toydata_mlcss_5_histogram.png)
+!["Cluster 0"](https://github.com/gulraizchoudhary/k-medoid/blob/main/k-medoids/visuals/toydata_mlcss_6_histogram.png)
+!["Cluster 0"](https://github.com/gulraizchoudhary/k-medoid/blob/main/k-medoids/visuals/toydata_mlcss_7_histogram.png)
+!["Cluster 0"](https://github.com/gulraizchoudhary/k-medoid/blob/main/k-medoids/visuals/toydata_mlcss_8_histogram.png)
+!["Cluster 0"](https://github.com/gulraizchoudhary/k-medoid/blob/main/k-medoids/visuals/toydata_mlcss_9_histogram.png)
