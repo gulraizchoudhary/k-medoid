@@ -63,3 +63,6 @@ Jaccard distance score (1-jaccard similarity)
 !["Cluster 0"](https://github.com/gulraizchoudhary/k-medoid/blob/main/k-medoids/visuals/toydata_overlap_2.png)
 !["Cluster 0"](https://github.com/gulraizchoudhary/k-medoid/blob/main/k-medoids/visuals/toydata_overlap_3.png)
 !["Cluster 0"](https://github.com/gulraizchoudhary/k-medoid/blob/main/k-medoids/visuals/toydata_overlap_4.png)
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
