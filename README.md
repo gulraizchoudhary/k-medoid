@@ -27,11 +27,12 @@ Monge-Elkan similarity measure: The Monge-Elkan similarity measure is a type of 
 ```
 
 
-## distance Score
+## Distance Score
 ```bash
 Bram distance socre (1 - bram similarity)
 dice distance socre (1 - dice similarity)
 TfIdf (1-(Monge-Elkan similarity measure/min(x,y)))
-
+Overlap distance score (1-overlap similarity)
+Jaccard distance score (1-jaccard similarity)
 ```
 
