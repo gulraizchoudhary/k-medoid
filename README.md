@@ -36,14 +36,30 @@ Overlap distance score (1-overlap similarity)
 Jaccard distance score (1-jaccard similarity)
 ```
 
-## Example: Histograms of most frequent diseases in a cluster
+## Example: Histograms of most frequent diseases in a cluster (mLCSS sequence similarity measure)
 !["Cluster 0"](https://github.com/gulraizchoudhary/k-medoid/blob/main/k-medoids/visuals/toydata_mlcss_0_histogram.png)
 !["Cluster 0"](https://github.com/gulraizchoudhary/k-medoid/blob/main/k-medoids/visuals/toydata_mlcss_1_histogram.png)
 !["Cluster 0"](https://github.com/gulraizchoudhary/k-medoid/blob/main/k-medoids/visuals/toydata_mlcss_2_histogram.png)
 !["Cluster 0"](https://github.com/gulraizchoudhary/k-medoid/blob/main/k-medoids/visuals/toydata_mlcss_3_histogram.png)
 !["Cluster 0"](https://github.com/gulraizchoudhary/k-medoid/blob/main/k-medoids/visuals/toydata_mlcss_4_histogram.png)
+## Example: Histograms of most frequent diseases in a cluster (Overlap similarity measure)
 !["Cluster 0"](https://github.com/gulraizchoudhary/k-medoid/blob/main/k-medoids/visuals/toydata_overlap_in_cluster_0_histogram.png)
 !["Cluster 0"](https://github.com/gulraizchoudhary/k-medoid/blob/main/k-medoids/visuals/toydata_overlap_in_cluster_1_histogram.png)
 !["Cluster 0"](https://github.com/gulraizchoudhary/k-medoid/blob/main/k-medoids/visuals/toydata_overlap_in_cluster_2_histogram.png)
 !["Cluster 0"](https://github.com/gulraizchoudhary/k-medoid/blob/main/k-medoids/visuals/toydata_overlap_in_cluster_3_histogram.png)
 !["Cluster 0"](https://github.com/gulraizchoudhary/k-medoid/blob/main/k-medoids/visuals/toydata_overlap_in_cluster_4_histogram.png)
+
+
+## Example: Diseae trajectories with cluster representatives (medoid) using mLCSS sequence similarity measure
+!["Cluster 0"](https://github.com/gulraizchoudhary/k-medoid/blob/main/k-medoids/visuals/toydata_mlcss_0.png)
+!["Cluster 0"](https://github.com/gulraizchoudhary/k-medoid/blob/main/k-medoids/visuals/toydata_mlcss_1.png)
+!["Cluster 0"](https://github.com/gulraizchoudhary/k-medoid/blob/main/k-medoids/visuals/toydata_mlcss_2.png)
+!["Cluster 0"](https://github.com/gulraizchoudhary/k-medoid/blob/main/k-medoids/visuals/toydata_mlcss_3.png)
+!["Cluster 0"](https://github.com/gulraizchoudhary/k-medoid/blob/main/k-medoids/visuals/toydata_mlcss_4.png)
+
+## Example: Diseae trajectories with cluster representatives (medoid) using Overlap similarity measure
+!["Cluster 0"](https://github.com/gulraizchoudhary/k-medoid/blob/main/k-medoids/visuals/toydata_overlap_0.png)
+!["Cluster 0"](https://github.com/gulraizchoudhary/k-medoid/blob/main/k-medoids/visuals/toydata_overlap_1.png)
+!["Cluster 0"](https://github.com/gulraizchoudhary/k-medoid/blob/main/k-medoids/visuals/toydata_overlap_2.png)
+!["Cluster 0"](https://github.com/gulraizchoudhary/k-medoid/blob/main/k-medoids/visuals/toydata_overlap_3.png)
+!["Cluster 0"](https://github.com/gulraizchoudhary/k-medoid/blob/main/k-medoids/visuals/toydata_overlap_4.png)
