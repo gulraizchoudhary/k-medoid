@@ -1,5 +1,5 @@
 The datasets' names are like this: data_1200_100_16_5_1.txt
--the first number is number of data
+-the first number is number of records (sample patients disease sets)
 -second: dimensionality which is number of different codes in the data
 -third: number of clusters
 -fourth: percentage of overlap between clusters
